@@ -7,13 +7,17 @@ Automation of standard lab workflows allows for greater ease in upscaling proces
 
 This protocol has four components which are listed below:
 
-1. PCR Dilution        option 1:  1_dilution_run_per_plate.py   option 2:1_dilution_pool_per_plate.py
+1. PCR Dilution        
+option 1:  1_dilution_run_per_plate.py   option 2:1_dilution_pool_per_plate.py
  
-2. End Preparation                2_endrepair.py
+2. End Preparation                
+2_endrepair.py
  
-3. Native Barcoding               3_barcoding.py
+3. Native Barcoding               
+3_barcoding.py
  
-4. Library Pooling     option 1:  4_pooling_48_samples.py      option 1: 4_pooling_96_samples.py
+4. Library Pooling     
+option 1:  4_pooling_48_samples.py      option 1: 4_pooling_96_samples.py
  
 Load parts 1 to 4 into the OT-2 and follow the instructions on UI 
 
