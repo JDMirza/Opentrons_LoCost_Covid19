@@ -18,8 +18,11 @@ option 1:  1_dilution_run_per_plate.py   option 2:1_dilution_pool_per_plate.py
  
 4. Library Pooling     
 option 1:  4_pooling_48_samples.py      option 1: 4_pooling_96_samples.py
- 
-Load parts 1 to 4 into the OT-2 and follow the instructions on UI 
+
+For this protocol, download the pdf file "semi-automated-ncov-2019-locost-protocol-using-the-ot2_opentrons.pdf" along with the 4 parts of the protocol in the repository. 
+
+Perform the protocol as required for the cDNA and PCR preparation steps
+Following this load parts 1 to 4 into the OT-2 and follow the instructions for each step 
 
 A pdf version of the protocols.io method is also within this directory to follow instructions for the LoCost protocol
 Once the DOI is generated for this it will be added to this repository as well
